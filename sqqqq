@@ -1,0 +1,55 @@
+[33mcommit 3e50e55196f37910e45ddcd24d1331eb2c576c81[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Adithya Vijay K <adithyavj@gmail.com>
+Date:   Sun Feb 7 13:18:30 2021 +0530
+
+    change in master
+
+[33mcommit c2fa455198e5377efd4d6c7e872a72f3655611c7[m
+Merge: de02075 48ddd79
+Author: Adithya Vijay K <adithyavj@gmail.com>
+Date:   Sun Feb 7 13:02:42 2021 +0530
+
+    Merge branch 'feature'
+    seperate branches are merged to one
+
+[33mcommit 48ddd79a0920b04f5b9bc5e571d66ba49b966cdb[m
+Author: Adithya Vijay K <adithyavj@gmail.com>
+Date:   Sun Feb 7 12:28:00 2021 +0530
+
+    featurebranch modification
+
+[33mcommit de0207597dbd415ba617d9fb67721c1b736f89d2[m
+Author: Adithya Vijay K <adithyavj@gmail.com>
+Date:   Sun Feb 7 12:25:14 2021 +0530
+
+    mastercommit
+
+[33mcommit e8cb76015b2efb6272b797d7ece4292f67735958[m
+Author: Adithya Vijay K <adithyavj@gmail.com>
+Date:   Sun Feb 7 12:04:01 2021 +0530
+
+    hey and hello files edited
+
+[33mcommit 1cbe6dea4ea508e0aa9904342d3b84798cfa3b6e[m
+Author: Adithya Vijay K <adithyavj@gmail.com>
+Date:   Sun Feb 7 11:59:23 2021 +0530
+
+    nothing new
+
+[33mcommit cfe9592bcd7630d9a9513cfe3f7f2193d83de386[m
+Author: Adithya Vijay K <adithyavj@gmail.com>
+Date:   Sun Feb 7 11:57:35 2021 +0530
+
+    Second file
+
+[33mcommit 893a583503093d96e84e00cb6d1058220c197fab[m
+Author: Adithya Vijay K <adithyavj@gmail.com>
+Date:   Sun Feb 7 11:10:26 2021 +0530
+
+    Added some more text
+
+[33mcommit 4533f700aceb3fdf00bd46c854c880ee730141d2[m
+Author: Adithya Vijay K <adithyavj@gmail.com>
+Date:   Sun Feb 7 10:57:13 2021 +0530
+
+    initial commit
